@@ -1,8 +1,4 @@
-# next-real-world
-
-## About
-
-## [Demo] [RealWorld]
+# About
 
 This codebase was created to demonstrate a fully fledged fullstack application built with Next.js, Apollo GraphQL stack and Prisma including CRUD operations, authentication, routing, pagination, and more.
 
@@ -100,15 +96,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-[Demo]:https://next-real-world.vercel.app
-[RealWorld]:https://github.com/gothinkster/realworld
-[Prisma]:https://github.com/prisma/prisma
-[Apollo Server]:https://github.com/apollographql/apollo-server
-[Apollo Client]:https://github.com/apollographql/apollo-client
-[Nexus]:https://github.com/graphql-nexus/nexus
-[GraphQL Code Generator]:https://github.com/dotansimha/graphql-code-generator
-[Tailwind CSS]:https://github.com/tailwindlabs/tailwindcss
-[Next.js]:https://github.com/vercel/next.js
-[Yup]:https://github.com/jquense/yup
-[React Hook Form]:https://github.com/react-hook-form/react-hook-form
