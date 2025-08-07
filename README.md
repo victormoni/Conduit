@@ -1,4 +1,4 @@
-# About
+# Conduit
 
 This codebase was created to demonstrate a fully fledged fullstack application built with Next.js, Apollo GraphQL stack and Prisma including CRUD operations, authentication, routing, pagination, and more.
 
